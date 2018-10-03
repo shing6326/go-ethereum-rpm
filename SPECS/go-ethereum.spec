@@ -1,5 +1,5 @@
 Name:    go-ethereum
-Version: 1.8.15
+Version: 1.8.16
 Release: 1%{?dist}
 Summary: Official golang implementation of the Ethereum protocol
 
